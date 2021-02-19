@@ -19,7 +19,7 @@ public class TestCliente {
         cliente.setFechaCumpleaños("24-04-2005");
         cliente.setTelefono("0999286146");
         cliente.setEstado(true);
-        cliente.setCategoriaCliente(categoriaCliente);
+       
          
 
     }
